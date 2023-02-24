@@ -90,7 +90,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://www.facebook.com/S2G4R.AL1.007/')
+os.system('xdg-open https://github.com/Sagor-Ahmed5/Sagor-420')
 logo =("""\033[0;92m
 ╔═══════════════════════════════════════════════════╗
 ███████╗ █████╗  ██████╗  ██████╗ ██████╗ 
